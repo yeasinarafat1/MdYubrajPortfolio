@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Charmonman:wght@400;700&family=Oooh+Baby&family=Oswald:wght@200..700&family=Playball&family=Rubik+Distressed&display=swap');
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+body{
+    width: 100vw;
+    overflow-x: hidden;
+}
